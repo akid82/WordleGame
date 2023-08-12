@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="wordleGame.model.GameModelTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-06T06:04:19" hostname="Annas-MBP" time="0.068">
+  <properties/>
+  <testcase name="testCheckValidWordMethodFalse" classname="wordleGame.model.GameModelTest" time="0.031"/>
+  <testcase name="testCheckValidWordMethodTrue" classname="wordleGame.model.GameModelTest" time="0.011"/>
+  <testcase name="testSetNumGuesses" classname="wordleGame.model.GameModelTest" time="0.008"/>
+  <testcase name="testGameOverFalse" classname="wordleGame.model.GameModelTest" time="0.008"/>
+  <testcase name="testSetMostRecentGuess" classname="wordleGame.model.GameModelTest" time="0.01"/>
+  <system-out><![CDATA[becks
+rocky
+hoots
+skips
+treks
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
