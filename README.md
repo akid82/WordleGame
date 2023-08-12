@@ -3,7 +3,7 @@
 ## Directions to run:
 1. After cloning down the repository, navigate to the project repository on your local machine
 2. Change directory to 'wordlecsci2300' (If typing 'ls' results in 5 items including the 'app' directory, you're in the right place)
-3. Run: gradle run
+3. Run command: gradle run
 
 ## Project Information
 Development of this project took place throughout the second half of the Fall 2022 semester in CSCI 2300 by team members Anna Kidwell, Kate Cannell, and Humza Rehman. Our assignment was to work as a team to develop a game utilizing the skills we had learned throughout the course such as Java development, design principles, git commands, Gradle build framework, unit testing with JUnit, GUI building with Java Swing, and proper code writing practices. 
